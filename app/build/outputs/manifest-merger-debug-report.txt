@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:5:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.android\build-cache\446ae5d977b92a3fad09b08cac8cf9428080d9b4\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\USER\.android\build-cache\6107aa16c81526bf91647f5fc49cddf21f0f7d72\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\USER\.android\build-cache\7cd8fedf2bc474fbe3f1224ef49b2db68133da84\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\USER\.android\build-cache\fac0ae0174ae822d53ac85438842645aae9dc8df\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\USER\.android\build-cache\46f0b3e6c7236652085a5903138fe041c18f15f0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\USER\.android\build-cache\38464b4d72de3e43e877bb7ceb88ffc2f042c89d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\USER\.android\build-cache\f3d91f56964bd9605ca30c3704e2c0f558505d66\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\USER\.android\build-cache\802622e07b276da4fe2ae6f3751cf1bdb50b1c6f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\USER\.android\build-cache\8808348609f9952cae8f8585966b1d5df1c8f591\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\USER\.android\build-cache\3a2632619801649b6180461639357158e8c3e45e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\USER\.android\build-cache\97f900465b445edfe485948f7be66c3c72fc8918\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\USER\.android\build-cache\67ab7eedb6128aa14081338361a4ded02f4549ab\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:9:9-44
+	android:allowBackup
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:7:9-39
+	android:theme
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.dilkidias.funmusic.MainActivity
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.dilkidias.funmusic.SearchActivity
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:19:19-49
+activity#com.example.dilkidias.funmusic.FragmentActivity
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:20:9-53
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:20:19-51
+activity#com.example.dilkidias.funmusic.NowPlayingActivity
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:21:9-55
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:21:19-53
+activity#com.example.dilkidias.funmusic.ListedActivity
+ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml:22:19-49
+uses-sdk
+INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.android\build-cache\446ae5d977b92a3fad09b08cac8cf9428080d9b4\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\USER\.android\build-cache\6107aa16c81526bf91647f5fc49cddf21f0f7d72\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\USER\.android\build-cache\7cd8fedf2bc474fbe3f1224ef49b2db68133da84\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\USER\.android\build-cache\fac0ae0174ae822d53ac85438842645aae9dc8df\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\USER\.android\build-cache\46f0b3e6c7236652085a5903138fe041c18f15f0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\USER\.android\build-cache\bebe62f046e9789e0c382e52b7b20450ac67e608\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\USER\.android\build-cache\38464b4d72de3e43e877bb7ceb88ffc2f042c89d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\USER\.android\build-cache\f3d91f56964bd9605ca30c3704e2c0f558505d66\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\USER\.android\build-cache\802622e07b276da4fe2ae6f3751cf1bdb50b1c6f\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\USER\.android\build-cache\8808348609f9952cae8f8585966b1d5df1c8f591\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\USER\.android\build-cache\3a2632619801649b6180461639357158e8c3e45e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\USER\.android\build-cache\97f900465b445edfe485948f7be66c3c72fc8918\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\USER\.android\build-cache\67ab7eedb6128aa14081338361a4ded02f4549ab\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\USER\.android\build-cache\6107aa16c81526bf91647f5fc49cddf21f0f7d72\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\FunMusic\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\USER\.android\build-cache\6107aa16c81526bf91647f5fc49cddf21f0f7d72\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\USER\.android\build-cache\7cd8fedf2bc474fbe3f1224ef49b2db68133da84\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\USER\.android\build-cache\fac0ae0174ae822d53ac85438842645aae9dc8df\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\USER\.android\build-cache\46f0b3e6c7236652085a5903138fe041c18f15f0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\USER\.android\build-cache\bebe62f046e9789e0c382e52b7b20450ac67e608\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\USER\.android\build-cache\38464b4d72de3e43e877bb7ceb88ffc2f042c89d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\USER\.android\build-cache\f3d91f56964bd9605ca30c3704e2c0f558505d66\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\USER\.android\build-cache\802622e07b276da4fe2ae6f3751cf1bdb50b1c6f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\USER\.android\build-cache\8808348609f9952cae8f8585966b1d5df1c8f591\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\USER\.android\build-cache\3a2632619801649b6180461639357158e8c3e45e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\USER\.android\build-cache\97f900465b445edfe485948f7be66c3c72fc8918\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\USER\.android\build-cache\67ab7eedb6128aa14081338361a4ded02f4549ab\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\USER\.android\build-cache\6107aa16c81526bf91647f5fc49cddf21f0f7d72\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\USER\.android\build-cache\6107aa16c81526bf91647f5fc49cddf21f0f7d72\output\AndroidManifest.xml:26:9-47

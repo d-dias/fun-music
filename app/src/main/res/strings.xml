@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Fun Music</string>
+    <string name="app_description">It\'s time to listen music.
+        <b>\nChoose what you want</b></string>
+    <string name="shuffle_play">Shuffle play</string>
+    <string name="search">Search</string>
+    <string name="all_songs">All songs</string>
+    <string name="artists">Artists</string>
+    <string name="song_types">Song types</string>
+    <string name="recently_played">Recently played</string>
+    <string name="search_description">Search here or choose below</string>
+    <string name="now_playing">Now playing!</string>
+    <string name="playing_song">Song</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="song_1">Shape of you</string>
+    <string name="artist_1">Ed Sheeran</string>
+    <string name="song">song</string>
+    <string name="artist">artist</string>
+    <string name="imageResourceId">imageResourceId</string>
+    <string name="audioResourceId">audioResourceId</string>
+    <string name="description_all_songs">All songs currently you have</string>
+    <string name="classic_music">Classic</string>
+    <string name="text">text</string>
+    <string name="type">type</string>
+    <string name="description_artist">All artists currently you have</string>
+    <string name="description_types">All song types currently you have</string>
+    <string name="tab_number">tab_number</string>
+    <string name="recent">Recent</string>
+    <string name="description_recently">Recently played songs</string>
+</resources>

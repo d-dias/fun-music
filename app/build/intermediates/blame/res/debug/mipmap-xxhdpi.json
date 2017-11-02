@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\FunMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\FunMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\FunMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\FunMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\OneDrive\\User\\AndroidStudioProjects\\FunMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\USER\\OneDrive\\User\\AndroidStudioProjects\\FunMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\OneDrive\\User\\AndroidStudioProjects\\FunMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\USER\\OneDrive\\User\\AndroidStudioProjects\\FunMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\AndroidStudioProjects\\FunMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\headset.png",
+        "source": "C:\\Users\\USER\\AndroidStudioProjects\\FunMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\headset.png"
+    },
+    {
+        "merged": "C:\\Users\\USER\\OneDrive\\User\\AndroidStudioProjects\\FunMusic\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\headset.png",
+        "source": "C:\\Users\\USER\\OneDrive\\User\\AndroidStudioProjects\\FunMusic\\app\\src\\main\\res\\mipmap-xxhdpi\\headset.png"
+    }
+]
